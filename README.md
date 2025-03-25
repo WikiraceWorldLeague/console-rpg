@@ -4,7 +4,7 @@
 🎮 실행 방법
 1. 프로젝트 클론 또는 다운로드
 ========================================================
-git clone https://github.com/your-repo/console-rpg.git
+git clone https://github.com/WikiraceWorldLeague/console-rpg.git
 cd console-rpg
 ========================================================
 
